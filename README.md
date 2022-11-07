@@ -1,2 +1,2 @@
 # Microcar
-A 90s emulator of micromachine videgames
+A 90s emulator of micromachine videogames
